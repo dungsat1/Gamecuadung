@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1743144108 source:e:\codeblocks\gamesnake\game_logic.cpp
+	"game_logic.h"
+	"constants.h"
+
+1742975782 e:\codeblocks\gamesnake\game_logic.h
+	<vector>
+	"constants.h"
+
+1743169375 e:\codeblocks\gamesnake\constants.h
+	<SDL.h>
+
+1743827623 source:e:\codeblocks\gamesnake\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	"sdl_utils.h"
+	"game_logic.h"
+	"constants.h"
+
+1743056436 e:\codeblocks\gamesnake\sdl_utils.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<string>
+	"constants.h"
+
+1743056661 source:e:\codeblocks\gamesnake\sdl_utils.cpp
+	"sdl_utils.h"
+	<iostream>
+
