@@ -27,7 +27,7 @@ Lối chơi, logic của game:
 
    Khi thua cuộc sẽ có thông báo hiện lên màn hình, điểm số của bạn và hướng dẫn nếu muốn chơi lại.
 
-![gameover](https://github.com/user-attachments/assets/a71e73cf-8f73-435e-b6e0-21d36b6786af)
+![gameover](https://github.com/user-attachments/assets/a71e73cf-8f73-435e-b6e0-21d36b6786af) 
   
       - Màu sắc tương phản dễ nhìn.
     Âm thanh: 
