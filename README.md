@@ -9,6 +9,7 @@ Lối chơi, logic của game:
      Đồ họa: 
        - Sử dụng các thư viện đồ họa SDL2, SDL2_image.
        - Rắn được biểu thị bằng các hình ảnh như đầu, thân, đuôi, khúc rẽ gắn lại với nhau (mỗi hình ảnh đề có kích thước 40x40 pixel).
+   
    ![head](https://github.com/user-attachments/assets/6498f3b8-25ee-4f13-ab32-70d5d3e4aa9c)
 
    ![corner](https://github.com/user-attachments/assets/f5e94637-a0a9-473e-b487-37860393add2)
@@ -20,7 +21,8 @@ Lối chơi, logic của game:
        - Mồi là hình ảnh quả táo (40x40 pixel).
 
     ![apple](https://github.com/user-attachments/assets/35d0862f-a43c-4d71-915c-1a0fc53adc4f)
-       - Background là hình ảnh có kích thước 760x720 pixel (trong đó phần tường bên trái, bên phải và phía dưới có độ rộng là 40 pixel, phần tường phía trên có độ rộng là 
+
+   - Background là hình ảnh có kích thước 760x720 pixel (trong đó phần tường bên trái, bên phải và phía dưới có độ rộng là 40 pixel, phần tường phía trên có độ rộng là 
 80 pixel).
 
    ![background](https://github.com/user-attachments/assets/7b3bf0da-fdfb-4277-bfcc-17b040a86d1f)
@@ -29,7 +31,7 @@ Lối chơi, logic của game:
 
 ![gameover](https://github.com/user-attachments/assets/a71e73cf-8f73-435e-b6e0-21d36b6786af) 
   
-      - Màu sắc tương phản dễ nhìn.
+   - Màu sắc tương phản dễ nhìn.
     Âm thanh: 
       - Sử dụng thư viện âm thanh SDL2_mixer.
       - Các hiệu ứng âm thanh được sử dụng (khi ăn mồi, khi thua cuộc).
@@ -62,6 +64,7 @@ Các chức năng đã cài được cho game:
 Nguồn tham khảo:
   - Gemini: hình ảnh.
   - Github: âm thanh.
+Link video game: https://drive.google.com/file/d/1bk4VUqLY2TxSUHcflOPlIpynKJFGYTcu/view?usp=sharing
 
 
 
