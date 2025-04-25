@@ -10,16 +10,25 @@ Lối chơi, logic của game:
        - Sử dụng các thư viện đồ họa SDL2, SDL2_image.
        - Rắn được biểu thị bằng các hình ảnh như đầu, thân, đuôi, khúc rẽ gắn lại với nhau (mỗi hình ảnh đề có kích thước 40x40 pixel).
    ![head](https://github.com/user-attachments/assets/6498f3b8-25ee-4f13-ab32-70d5d3e4aa9c)
+
    ![corner](https://github.com/user-attachments/assets/f5e94637-a0a9-473e-b487-37860393add2)
+
    ![body](https://github.com/user-attachments/assets/c182ba24-f045-4f1b-a2d4-9ba8c981279c)
+
    ![tail](https://github.com/user-attachments/assets/4c1aff98-2a4e-4004-a3ef-e660e8c40718)
+
        - Mồi là hình ảnh quả táo (40x40 pixel).
-   ![apple](https://github.com/user-attachments/assets/35d0862f-a43c-4d71-915c-1a0fc53adc4f)
+
+    ![apple](https://github.com/user-attachments/assets/35d0862f-a43c-4d71-915c-1a0fc53adc4f)
        - Background là hình ảnh có kích thước 760x720 pixel (trong đó phần tường bên trái, bên phải và phía dưới có độ rộng là 40 pixel, phần tường phía trên có độ rộng là 
 80 pixel).
+
    ![background](https://github.com/user-attachments/assets/7b3bf0da-fdfb-4277-bfcc-17b040a86d1f)
+
    Khi thua cuộc sẽ có thông báo hiện lên màn hình, điểm số của bạn và hướng dẫn nếu muốn chơi lại.
+
 ![gameover](https://github.com/user-attachments/assets/a71e73cf-8f73-435e-b6e0-21d36b6786af)
+  
       - Màu sắc tương phản dễ nhìn.
     Âm thanh: 
       - Sử dụng thư viện âm thanh SDL2_mixer.
@@ -42,7 +51,7 @@ Cấu trúc của project game:
   6. Trả về true nếu khởi tạo thành công
 - game_logic.h, game_logic.cpp: kiểm tra xem rắn có va chạm với tường hay với thân của mình hay không (trả về false nếu có, trả về true nếu không).
 - Ngoài ra project còn có các file hình ảnh (đầu, thân, khúc rẽ, đuôi, quả táo, background), file âm thanh (khi ăn mồi, khi thua cuộc), font chữ.
-Các chức năng đã cài được cho game:
+Các chức năng đã cài được cho game: 
   - Điều khiển con rắn di chuyển bằng các phím mũi tên. 
   - Tạo mồi ngẫu nhiên trên màn hình không trùng với thân rắn. 
   - Tăng chiều dài con rắn khi ăn mồi. 
