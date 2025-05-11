@@ -64,7 +64,7 @@ Các chức năng đã cài được cho game:
 Nguồn tham khảo:
   - Gemini: hình ảnh.
   - Github: âm thanh.
-Link video game: https://drive.google.com/file/d/1bk4VUqLY2TxSUHcflOPlIpynKJFGYTcu/view?usp=sharing
+Link video game: https://drive.google.com/file/d/17w1HPnBCAwPTUXvbo-I16NPlKs1YbyO3/view?usp=sharing
 
 
 
